@@ -104,4 +104,4 @@ Please refer to the `CONTRIBUTING.md` for detailed guidelines.
 
 ## 📧 Contact
 
-If you have any questions or feedback, please contact the project maintainer at [your.email@example.com].
+If you have any questions or feedback, please contact the project maintainer at [pankajray1288@example.com].
